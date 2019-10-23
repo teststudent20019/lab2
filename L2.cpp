@@ -21,6 +21,7 @@ void main(void)
 	std::cout << "8. Інформація про хобі: Спорт і велотуризм\n";
 	std::cout << "9. Трудова діяльність: студент.\n";
 	std::cout << "10. Віросповідання: Православний християнин.\n";
+	std::cout << "11. Паспортні дані: Паспортні дані: ЕА 536126,\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
